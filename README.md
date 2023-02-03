@@ -1,4 +1,4 @@
-# Bank_Management_system
+# Banking System Database Management
 This is a Bank Management System Database Project.
 
 # Abstract: 
